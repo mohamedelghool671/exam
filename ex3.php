@@ -25,5 +25,5 @@ $array[$j+1]=$min;
     }
 }
 echo "<pre>";
-echo "Ascending Order: ";
+echo "descending Order: ";
 print_r($array);
